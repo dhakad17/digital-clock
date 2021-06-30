@@ -1,0 +1,26 @@
+#digital-clock {
+  width: 35%;
+  margin: auto;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  margin-top: 20%;
+  font-size: 64px;
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#digital-hour {
+  color: #fd2155;
+  display: inline-block;
+}
+#digital-minutes {
+  color: #a83289;
+  display: inline-block;
+}
+#digital-second {
+  color: #32a87d;
+  display: inline-block;
+}
+#digital-period {
+  color: #ff8b2b;
+  display: inline-block;
+}
